@@ -27,22 +27,24 @@ body {
     background-color: black;
     text-align: center;
 }
+
 .texto {
     background-color: black;
     color: white;
     display: inline-block;
     width: 700px;
 }
+
 .img1 {
     display: inline-block;
     width: 300px;
     vertical-align: middle;  
 }
+
 .caret  {
     background-color: #1E1A13;
     text-align: center;
 }
-
 
 .ojo, .pcf, .color {
     display: inline-block;
@@ -50,12 +52,13 @@ body {
     vertical-align: middle;
     border: 30px black;
 }
+
 .imagenes{
   background-color: black;
     text-align: center;
-    top: ;
   
 }
+
 .imageniguanas{
     display: inline-block;
     width: 630px;
@@ -70,6 +73,7 @@ footer {
     height: 50px;
     top: 30px;
 }
+
 .texto2 {
     text-align: center;
     font-size: 30px;
